@@ -1,6 +1,6 @@
 import Form from 'next/form'
  
-export default function Search({query}) {
+export default function Search() {
   return (
     <Form action="/search">
       <input className="border rounded p-1 mx-1" name="query" />

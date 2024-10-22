@@ -1,4 +1,5 @@
 import Search from "@/components/search";
+import OldSearch from "@/components/old-search";
 import ProductList from "@/components/product-list";
 import NoMatchingProducts from "@/components/no-matching-products";
 
